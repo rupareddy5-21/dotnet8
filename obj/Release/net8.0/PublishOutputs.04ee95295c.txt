@@ -1,0 +1,7 @@
+/root/test/MyWebApp/bin/Release/net8.0/publish/MyWebApp
+/root/test/MyWebApp/bin/Release/net8.0/publish/appsettings.Development.json
+/root/test/MyWebApp/bin/Release/net8.0/publish/appsettings.json
+/root/test/MyWebApp/bin/Release/net8.0/publish/MyWebApp.dll
+/root/test/MyWebApp/bin/Release/net8.0/publish/MyWebApp.deps.json
+/root/test/MyWebApp/bin/Release/net8.0/publish/MyWebApp.runtimeconfig.json
+/root/test/MyWebApp/bin/Release/net8.0/publish/MyWebApp.pdb
